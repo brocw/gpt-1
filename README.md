@@ -11,6 +11,8 @@ The training data used is in `input.txt`; it is a collection of Shakespeare.
 
 ## Sample Output
 
+![](screenshot.png)
+
 > But in a merit, who indeed was to be
 > piercing guilty of some sore gentleman that was something in
 > him: he had lived to make his answer to do sit out of
